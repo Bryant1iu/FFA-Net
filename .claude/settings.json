@@ -6,7 +6,7 @@
         "hooks": [
           {
             "type": "command",
-            "command": "bash .claude/auto_pr.sh"
+            "command": "bash .claude/auto_push.sh"
           }
         ]
       }
